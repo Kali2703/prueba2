@@ -325,6 +325,11 @@ https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8
 #EXTVLCOPT:network-caching=1000
 http://181.224.255.210:8001/play/a0s0/index.m3u8
 
+#EXTINF:0 group-title="Entretenimiento",SONY ONE NOVELAS HD
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+https://8d4a17fe54c04f04bb010a8d291c7d41.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-mx_SonyOneNovelas/playlist.m3u8
+
 #EXTINF:0 group-title="NOVELAS",TLNovelas
 #EXTGRP:NOVELAS
 #EXTVLCOPT:network-caching=1000
@@ -349,11 +354,6 @@ http://181.78.23.26:45000/play/a00d
 #EXTGRP:Infantil
 #EXTVLCOPT:network-caching=1000
 http://181.78.12.119:16123/play/ch01/index.m3u8
-
-#EXTINF:0 group-title="Anime",Bitme
-#EXTGRP:Anime
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0ga/index.m3u8
 
 #EXTINF:0 group-title="Infantil",Cartoon Network HD
 #EXTGRP:Infantil
@@ -414,6 +414,41 @@ http://190.60.39.221:8000/play/a05u/index.m3u8
 #EXTGRP:Infantil
 #EXTVLCOPT:network-caching=1000
 http://181.78.121.15:8000/play/a00a/index.m3u8
+
+#EXTINF:0 group-title="ANIME",ANIME XTV
+#EXTGRP:ANIME
+#EXTVLCOPT:network-caching=1000
+http://animezonetv.net:81/live_hls/animetest/index.m3u8
+
+#EXTINF:0 group-title="ANIME",ANIMASH
+#EXTGRP:ANIME
+#EXTVLCOPT:network-caching=1000
+http://38.7.195.44:8000/play/a0ce
+
+#EXTINF:0 group-title="Anime",Bitme
+#EXTGRP:Anime
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a0ga/index.m3u8
+
+#EXTINF:0 group-title="ANIME",DFTV ANIMACION HD
+#EXTGRP:ANIME
+#EXTVLCOPT:network-caching=1000
+https://lbgo.bozztv.com/giatv/giatv-desiertofloridoatacamachile/desiertofloridoatacamachile/playlist.m3u8
+
+#EXTINF:0 group-title="ANIME",GIK TV
+#EXTGRP:ANIME
+#EXTVLCOPT:network-caching=1000
+https://pistream.ddns.net/hls/stream.m3u8?PlaylistM3UCL
+
+#EXTINF:0 group-title="ANIME",MAX ANIME
+#EXTGRP:ANIME
+#EXTVLCOPT:network-caching=1000
+https://cdnlive.klicgo.net/maxanime/live/playlist_dvr.m3u8
+
+#EXTINF:0 group-title="ANIME",ZYOON TV
+#EXTGRP:ANIME
+#EXTVLCOPT:network-caching=1000
+https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/chunks.m3u8
 
 #EXTINF:0 group-title="Documentales",Animel Planet HD
 #EXTGRP:Documentales
@@ -519,6 +554,11 @@ https://dapdwco2fkcoa.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=88887703
 #EXTGRP:Documentales
 #EXTVLCOPT:network-caching=1000
 http://200.115.120.1:8000/play/ca143/index.m3u8
+
+#EXTINF:0 group-title="Documentales",POWERNATION EN ESPAÑOL HD
+#EXTGRP:Documentales
+#EXTVLCOPT:network-caching=1000
+https://amg01258-amg01258c3-canelatv-international-5546.playouts.now.amagi.tv/ts-us-e2-n1/playlist/amg01258-raycomsportsfast-powernationspanish-canelatvinternational/cb7c3e167b746f8cccca3562d6a441aa8d0f65d05d37803c6ea007c620c7150882b8f2c9e84feb687ec062812b53310d0c78ce07de6c19a08724fc0e733f070afe88b37bc7991919d581512c2eb86a5657fa1705a165137edcde1f0aae34a1365040bf473d0072c59621c90b2ed99056d2247c9bda88326222434fec051fbafd0bbcfee45e5bd872a1af1c58f67e13b6c01bd6d11fbc9ed75d8c57d570a51dce9bf28ace42818ec37ea856e465445a7b24cccd7cc59109efd8cb383dca70711c723f83a09cee5e3df424293da8a5b4d50fea00f19937887636b819ea3eee5f847ea60598f45d9fbda9d654403abd9e160b44a4eca4f8bd5f77bf63aef5bbd82028d4a445294484398e757a75c9a8c944c9c21792e572dded3c196b91c91fe2f7d882ffa0b248892bcecbf1ea56282760050c8351a3d479cd739612cfdb00244e724da9e815aef8d84b246a1f9ad65fd5174cbddadf80d9576b93334f58ed338b5a5c3b9a32360b8f42fd9f2a658a2335893433fc4d3487478edc4697a2c8bf6851d7d7c4309705899c2bf0a74ffe37573361bfff382d21261ffecf3c675a1ac74bf0a1a98b16595a9c9da5f7c65207132007577eef88855ebad4e1437e03d35f543a1e481f8210c67a854f06032fc71bdfad476093493121e7be3a4f156f9ec9bf8f82da8554ba68d6ddb0372e2f506cb37e002823d6a59d58f33747240f37ed0e745382144e4df890f6f08b8c1caaf6068419502809b498e8d29a33090127a3d20efa5bfa9a1eb6e9b236aec1ac628801a1c17b7db0dfce78f0ada0ca4a1d99a9566307ddb3758c1b29b693a05621577f8b902c72439afc9d62b6f4b52c98d29fd522992de2620666e37bb4a3c0bac27f6c2af0203c1e064f1e735e776359f68a952c3772e2b828f14ea6c561e913047d6f1c9eb50950d0bc2c5c84632a29e581db9ba1cf3415c845fd61863550f1195e78a18413c2b79fdfb6c7635d0bdcf68c49b8aa87c88cf5c2347106697fca940c1b279676bedc47d2ac1b7dfd80c4b08939d926b447ceeedc19ed32a4c4ab1deec1cd8c9c59231e0b07b2918db97ebd9b054abc77de375d3b9498ebf960bb97fc3071e459ef92142cc91a7b4ec2bff414c249ebbed94b551cbcecb3513fca97cb720c4f7a10e79959021cfd/38/1920x1080_6046040/index.m3u8
 
 #EXTINF:0 group-title="PELICULAS",A LA MEXICANA HD
 #EXTGRP:PELICULAS
@@ -650,6 +690,11 @@ https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 http://181.78.12.119:16123/play/a0de/index.m3u8
 
+#EXTINF:0 group-title="PELICULAS",SONY ONE CINEMA
+#EXTGRP:PELICULAS
+#EXTVLCOPT:network-caching=1000
+https://55a8e146e2a14a0288735149357b44c0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-mx_SonyOneCinema/playlist.m3u8
+
 #EXTINF:0 group-title="PELICULAS",SPARK TV LUZ Y AMOR 
 #EXTGRP:PELICULAS
 #EXTVLCOPT:network-caching=1000
@@ -665,6 +710,787 @@ http://45.228.234.30:16000/play/a06c/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://38.137.192.250:8000/play/a0d5
 
+#EXTINF:0 group-title="PELICULAS",WOW MOVIES
+#EXTGRP:PELICULAS
+#EXTVLCOPT:network-caching=1000
+https://lbgo.bozztv.com/giatv/giatv-wowmovies/wowmovies/playlist.m3u8
 
+#EXTINF:0 group-title="Musica",BandaMax
+#EXTGRP:Musica
+#EXTVLCOPT:network-caching=1000
+http://38.188.186.47:4000/play/a00d/index.m3u8
 
+#EXTINF:0 group-title="Musica",CLARO MUSICA
+#EXTGRP:Musica
+#EXTVLCOPT:network-caching=1000
+http://tecnotv.club/mu54/phpcode/ssiptv.php?c=a02g&token=tecnotokenplustv230516F&f=.m3u8
 
+#EXTINF:0 group-title="Musica",CONECTA TV
+#EXTGRP:Musica
+#EXTVLCOPT:network-caching=1000
+https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
+
+#EXTINF:0 group-title="Musica",EXA TV
+#EXTGRP:Musica
+#EXTVLCOPT:network-caching=1000
+http://190.61.90.17:40000/play/a0hk/index.m3u8
+
+#EXTINF:0 group-title="Musica",HDI MUSIC
+#EXTGRP:MUSICA
+#EXTVLCOPT:network-caching=1000
+http://181.224.255.210:8001/play/a0sg/index.m3u8
+
+#EXTINF:0 group-title="Musica",HTV
+#EXTGRP:MUSICA
+#EXTVLCOPT:network-caching=1000
+http://181.78.12.119:16123/play/a08x/index.m3u8
+
+#EXTINF:0 group-title="Musica",KISS TV 
+#EXTGRP:Musica
+#EXTVLCOPT:network-caching=1000
+https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131_output_0.m3u8
+
+#EXTINF:0 group-title="Musica",MEGABOX
+#EXTGRP:Musica
+#EXTVLCOPT:network-caching=1000
+https://hdbox.chunklistv.com/live?stream=megabox
+
+#EXTINF:0 group-title="Musica",MEMORIAS DEL CORAZÓN
+#EXTGRP:Musica
+#EXTVLCOPT:network-caching=1000
+http://190.60.39.220:8000/play/a021/index.m3u8
+
+#EXTINF:0 group-title="Musica",MEMORIAS CLASSIC
+#EXTGRP:Musica
+#EXTVLCOPT:network-caching=1000
+http://190.60.39.220:8000/play/a020/index.m3u8
+
+#EXTINF:0 group-title="Musica",MEMORIAS POP
+#EXTGRP:Musica
+#EXTVLCOPT:network-caching=1000
+http://190.60.39.220:8000/play/a023/index.m3u8
+
+#EXTINF:0 group-title="Musica",MTV CLASSIC
+#EXTGRP:MUSICA
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8
+
+#EXTINF:0 group-title="Musica",MTV FLOW LATINO
+#EXTGRP:MUSICA
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5d3609cd6a6c78d7672f2a81.m3u8
+
+#EXTINF:0 group-title="Musica",PORTAL FOXMIX
+#EXTGRP:MUSICA
+#EXTVLCOPT:network-caching=1000
+https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
+
+#EXTINF:0 group-title="Musica",RETRO PLUS
+#EXTGRP:MUSICA
+#EXTVLCOPT:network-caching=1000
+https://scl.edge.grupoz.cl/retroplustvuno/live/playlist.m3u8
+
+#EXTINF:0 group-title="Musica",RETRO PLUS 2
+#EXTGRP:MUSICA
+#EXTVLCOPT:network-caching=1000
+https://tls-cl.cdnz.cl/retroplustvdos/live/chunklist_w339271206.m3u8
+
+#EXTINF:0 group-title="Musica",RECUERDOS RETRO RADIO TV
+#EXTGRP:MUSICA
+#EXTVLCOPT:network-caching=1000
+https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:0 group-title="Musica",REWIND
+#EXTGRP:MUSICA
+#EXTVLCOPT:network-caching=1000
+https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:0 group-title="Musica",STINGRAY CLASSIC ROCK
+#EXTGRP:Musica
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:0 group-title="Musica",STINGRAY CLASSIC
+#EXTGRP:Musica
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:0 group-title="Musica",STINGRAY COZY CAFE
+#EXTGRP:Musica
+#EXTVLCOPT:network-caching=1000
+https://aka-live1050.delivery.roku.com/372c813e-1fb9-41d4-a4d0-5fbd803659c5/t2-origin/out/v1/live.m3u8
+
+#EXTINF:0 group-title="Musica",STINGRAY DJAZZ
+#EXTGRP:Musica
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:0 group-title="Musica",STINGRAY ESAY LISTENING
+#EXTGRP:Musica
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:0 group-title="Musica",STINGRAY EVERYTHING 80s
+#EXTGRP:Musica
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:0 group-title="Musica",STINGRAY FLASHBACK 70s
+#EXTGRP:Musica
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:0 group-title="Musica",STINGRAY GREATEST HOLIDAYS HIST
+#EXTGRP:Musica
+#EXTVLCOPT:network-caching=1000
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/54947915-6504-4548-aaef-eabd451f8607/1.m3u8
+
+#EXTINF:0 group-title="Musica",STINGRAY HITS LIST
+#EXTGRP:Musica
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:0 group-title="Musica",STINGRAY HOLIDAYS HITS
+#EXTGRP:Musica
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:0 group-title="Musica",STINGRAY HOT COUNTRY
+#EXTGRP:Musica
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:0 group-title="Musica",STINGRAY JUKEBOX OLDIES
+#EXTGRP:Musica
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/ose-021ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:0 group-title="Musica",STINGRAY KARAOKE
+#EXTGRP:Musica
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:0 group-title="Musica",STINGRAY NATURE ESCAPE
+#EXTGRP:Musica
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:0 group-title="Musica",STINGRAY NOTHIN´ BUT 90s
+#EXTGRP:Musica
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:0 group-title="Musica",STINGRAY POP ADULT
+#EXTGRP:Musica
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:0 group-title="Musica",STINGRAY REMEMBER THE 80s
+#EXTGRP:Musica
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:0 group-title="Musica",STINGRAY ROCK ALTERNATIVE
+#EXTGRP:Musica
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:0 group-title="Musica",STINGRAY ROMANCE LATINO
+#EXTGRP:Musica
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:0 group-title="Musica",STINGRAY SMOOTH JAZZ
+#EXTGRP:Musica
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:0 group-title="Musica",STINGRAY SOUL STORM
+#EXTGRP:Musica
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:0 group-title="Musica",STINGRAY SPA
+#EXTGRP:Musica
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:0 group-title="Musica",STINGRAY TODAYs KPOP
+#EXTGRP:Musica
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:0 group-title="Musica",STINGRAY TODAYs LATIN POP
+#EXTGRP:Musica
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:0 group-title="Musica",STINGRAY URBAN BEAT
+#EXTGRP:Musica
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:0 group-title="Musica",STINGRAY CONCERTS
+#EXTGRP:Musica
+#EXTVLCOPT:network-caching=1000
+http://181.224.255.210:8001/play/a0pu/index.m3u8
+
+#EXTINF:0 group-title="Musica",STINGRAY CITYSCAPES
+#EXTGRP:Musica
+#EXTVLCOPT:network-caching=1000
+https://aka-live1050.delivery.roku.com/7572d640-7373-4137-8b14-a3afff395349/t2-origin/out/v1/live.m3u8
+
+#EXTINF:0 group-title="Musica",STINGRAY TODAYs LATIN POP
+#EXTGRP:Musica
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:0 group-title="Musica",STINGRAY TIKTOK RADIO
+#EXTGRP:Musica
+#EXTVLCOPT:network-caching=1000
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814594/hls/master.m3u8?ads.xumo_channelId=88814594
+
+#EXTINF:0 group-title="Musica",STINGRAY MOVIE MUSIC
+#EXTGRP:Musica
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:0 group-title="Musica",TELEHIT 
+#EXTGRP:Musica
+#EXTVLCOPT:network-caching=1000
+http://181.78.106.127:5000/play/ca065/index.m3u8
+
+#EXTINF:0 group-title="Musica",TELEHIT MUSICA
+#EXTGRP:Musica
+#EXTVLCOPT:network-caching=1000
+http://181.119.66.28:8081/TELEHIT-MUSICA/index.m3u8
+
+#EXTINF:0 group-title="Musica",TELERITMO
+#EXTGRP:Musica
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?TecnoPlaylist
+
+#EXTINF:0 group-title="Musica",TOTALMUSIC 
+#EXTGRP:Musica
+#EXTVLCOPT:network-caching=1000
+https://cdn.40mediagroup.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:0 group-title="Musica",TOTALMUSIC 80's
+#EXTGRP:Musica
+#EXTVLCOPT:network-caching=1000
+https://cdn.40mediagroup.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:0 group-title="Musica",TOTALMUSIC 00's
+#EXTGRP:Musica
+#EXTVLCOPT:network-caching=1000
+https://cdn.40mediagroup.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:0 group-title="Musica",TOTALMUSIC CONCERT's
+#EXTGRP:Musica
+#EXTVLCOPT:network-caching=1000
+https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:0 group-title="Musica",TOTALMUSIC DANCE
+#EXTGRP:Musica
+#EXTVLCOPT:network-caching=1000
+https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:0 group-title="Musica",THAT's 70s
+#EXTGRP:Musica
+#EXTVLCOPT:network-caching=1000
+https://amg01076-lightning-amg01076c1-tcl-us-2471.playouts.now.amagi.tv/playlist/amg01076-lightning-now70s-tclus/playlist.m3u8
+
+#EXTINF:0 group-title="Musica",THAT's 80s
+#EXTGRP:Musica
+#EXTVLCOPT:network-caching=1000
+https://s7host5.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config9/playlist.m3u8?ads.cdnhost=s7host5.localnow.api.cms.amdvids.com&ads.playbackid=043AAC60-0203-4C49-A6C1-D24CD5FA4429&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=043AAC60-0203-4C49-A6C1-D24CD5FA4429&ads.n4=content_name&ads.v4=that%27s%2080s&ads.n21=gpp_sid&ads.v21=&ads.n22=url&ads.v22=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n23=network_name&ads.v23=now-80s&ads.n24=app_version&ads.v24=0.0.0&ads.n25=gpp&ads.v25=&ads.n26=device_model&ads.v26=&ads.n27=device_type&ads.v27=&ads.n28=channel_brand_id&ads.v28=AMDB013348&ads.n29=w&ads.v29=1920&ads.n30=app_store_url&ads.v30=&ads.n31=channel_ext_id&ads.v31=&ads.n32=channel_name&ads.v32=that%27s%2080s&ads.n33=ua&ads.v33=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n34=channel_language&ads.v34=en&ads.n35=us_privacy&ads.v35=1YNY&ads.n36=channel_title&ads.v36=that%27s%2080s&ads.n37=ifa_type&ads.v37=&ads.n38=content_provider&ads.v38=now-80s&ads.n39=ip&ads.v39=185.217.168.164&ads.n40=app_bundle&ads.v40=&ads.n41=content_custom_3_param&ads.v41=channel&ads.n42=channel_rating&ads.v42=TV-PG&ads.n43=cust_devicename&ads.v43=desktop_web&ads.n44=did&ads.v44=&ads.n45=channel_corp&ads.v45=Lightning%20International%20Limited&ads.n46=channel_genre&ads.v46=Music%20Video&ads.n47=pos&ads.v47=midroll&ads.n48=content_type&ads.v48=channel&ads.n49=content_producer_name&ads.v49=Lightning%20International%20Limited&ads.n50=dnt&ads.v50=&ads.n51=channel_id&ads.v51=043AAC60-0203-4C49-A6C1-D24CD5FA4429&ads.n52=content_livestream&ads.v52=1&ads.n53=content_custom_2_param&ads.v53=AMDB013348&ads.n54=h&ads.v54=1080&ads.n55=channel_company_id&ads.v55=AMDP500507&ads.n56=app_name&ads.v56=&ads.n57=device_make&ads.v57=&ads.n58=content_custom_1_param&ads.v58=043AAC60-0203-4C49-A6C1-D24CD5FA4429
+
+#EXTINF:0 group-title="Musica",THAT's 90s
+#EXTGRP:Musica
+#EXTVLCOPT:network-caching=1000
+https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
+
+#EXTINF:0 group-title="Musica",THAT's ROCK
+#EXTGRP:Musica
+#EXTVLCOPT:network-caching=1000
+https://s7host5.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config9/playlist.m3u8?ads.cdnhost=s7host5.localnow.api.cms.amdvids.com&ads.playbackid=693E205D-9369-43DE-8DCC-BF90CC0951C5&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=693E205D-9369-43DE-8DCC-BF90CC0951C5&ads.n4=content_name&ads.v4=that%27s%20Rock&ads.n21=cust_devicename&ads.v21=desktop_web&ads.n22=channel_title&ads.v22=that%27s%20Rock&ads.n23=ua&ads.v23=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n24=channel_corp&ads.v24=Lightning%20International%20Limited&ads.n25=device_model&ads.v25=&ads.n26=device_make&ads.v26=&ads.n27=gpp_sid&ads.v27=&ads.n28=pos&ads.v28=midroll&ads.n29=network_name&ads.v29=now-90s&ads.n30=ip&ads.v30=185.217.168.164&ads.n31=app_store_url&ads.v31=&ads.n32=did&ads.v32=&ads.n33=content_custom_3_param&ads.v33=channel&ads.n34=ifa_type&ads.v34=&ads.n35=content_livestream&ads.v35=1&ads.n36=us_privacy&ads.v36=1YNY&ads.n37=content_type&ads.v37=channel&ads.n38=content_custom_1_param&ads.v38=693E205D-9369-43DE-8DCC-BF90CC0951C5&ads.n39=channel_ext_id&ads.v39=&ads.n40=gpp&ads.v40=&ads.n41=device_type&ads.v41=&ads.n42=w&ads.v42=1920&ads.n43=app_name&ads.v43=&ads.n44=channel_rating&ads.v44=TV-PG&ads.n45=channel_company_id&ads.v45=AMDP500507&ads.n46=channel_genre&ads.v46=Music%20Video&ads.n47=h&ads.v47=1080&ads.n48=content_producer_name&ads.v48=Lightning%20International%20Limited&ads.n49=app_bundle&ads.v49=&ads.n50=app_version&ads.v50=0.0.0&ads.n51=url&ads.v51=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n52=channel_language&ads.v52=en&ads.n53=content_custom_2_param&ads.v53=AMDB013349&ads.n54=channel_name&ads.v54=that%27s%20Rock&ads.n55=content_provider&ads.v55=now-90s&ads.n56=channel_id&ads.v56=693E205D-9369-43DE-8DCC-BF90CC0951C5&ads.n57=dnt&ads.v57=&ads.n58=channel_brand_id&ads.v58=AMDB013349
+
+#EXTINF:0 group-title="MUSICA",TRACE LATINA
+#EXTGRP:MUSICA
+#EXTVLCOPT:network-caching=1000
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatina-tcl-ideo/playlist.m3u8
+
+#EXTINF:0 group-title="Musica",VEVO POP 
+#EXTGRP:Musica
+#EXTVLCOPT:network-caching=1000
+https://amg00056-amg00056c6-rakuten-uk-3235.playouts.now.amagi.tv/360p/index.m3u8
+
+#EXTINF:0 group-title="Musica",VEVO LATINO 
+#EXTGRP:Musica
+#EXTVLCOPT:network-caching=1000
+https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/360p/index.m3u8
+
+#EXTINF:0 group-title="Musica",WOXTV 
+#EXTGRP:Musica
+#EXTVLCOPT:network-caching=1000
+https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
+
+#EXTINF:0 group-title="MUSICA",XITE 80s FLASHBACK
+#EXTGRP:MUSICA
+#EXTVLCOPT:network-caching=1000
+https://d1n314cytqn9r3.cloudfront.net/360p/index.m3u8
+
+#EXTINF:0 group-title="MUSICA",XITE 90s THROWBACK 
+#EXTGRP:MUSICA
+#EXTVLCOPT:network-caching=1000
+https://d284aawtm5vi48.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/5218f7d7-08f1-42d5-a973-1b3fdfd69a11/0.m3u8
+
+#EXTINF:0 group-title="MUSICA",XITE CELEBRATES 
+#EXTGRP:MUSICA
+#EXTVLCOPT:network-caching=1000
+https://dt1s4l2cmiyit.cloudfront.net/360p-vtt/index.m3u8
+
+#EXTINF:0 group-title="MUSICA",XITE JUST CHILL
+#EXTGRP:MUSICA
+#EXTVLCOPT:network-caching=1000
+https://dvnftgdlbnemm.cloudfront.net/360p/index.m3u8
+
+#EXTINF:0 group-title="MUSICA",XITE NUEVO LATINO 
+#EXTGRP:MUSICA
+#EXTVLCOPT:network-caching=1000
+https://d3bsgqzbpkrvbb.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/3e10db03-8993-476f-ada5-80673537bb9f/2.m3u8
+
+#EXTINF:0 group-title="MUSICA",XITE ROCK x METAL US 
+#EXTGRP:MUSICA
+#EXTVLCOPT:network-caching=1000
+https://d198ro05q94rc4.cloudfront.net/360p/index.m3u8
+
+#EXTINF:0 group-title="MUSICA",XITE SIEMPRE LATINO 
+#EXTGRP:MUSICA
+#EXTVLCOPT:network-caching=1000
+https://d1xc25jm9e0l4b.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/e86208f6-fc53-405b-afd6-6b931a9304bd/0.m3u8
+
+#EXTINF:0 group-title="MUSICA",XITE  
+#EXTGRP:MUSICA
+#EXTVLCOPT:network-caching=1000
+https://d1xc25jm9e0l4b.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/ccbb50e5-0452-4c5f-8fce-5a140677ce23/0.m3u8
+
+#EXTINF:0 group-title="MUSICA",XITE HITS  
+#EXTGRP:MUSICA
+#EXTVLCOPT:network-caching=1000
+https://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8
+
+#EXTINF:0 group-title="Deportes",A SPOR
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+
+#EXTINF:0 group-title="Deportes",ACI SPORTS
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
+
+#EXTINF:0 group-title="Deportes",AYM SPORTS HD
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+https://aym-as.otteravision.com/aym/as/as_1080p.m3u8
+
+#EXTINF:0 group-title="DEPORTES",AYM SPORTS 3
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://thm-it-roku.otteravision.com/thm/it/it_720p_high.m3u8
+
+#EXTINF:0 group-title="Deportes",AYM SPORTS USA HD
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+https://amg01602-amg01602c3-canelatv-international-8324.playouts.now.amagi.tv/playlist/amg01602-themahqfrancefast-itvdeportes-canelatvinternational/playlist.m3u8?rights_holder_id=itv-deportes&user_id=&vip=186.32.216.161&ic=IAB1-7&content_livestream=1&app_bundle=canela.tv&app_name=CanelaTV&app_store_url=NA&dnt=0&did=02e27c44-b3ec-4523-9c12-e9b90380087a&url=https://www.canela.tv/player/channel/itv-deportes&us_privacy=null_us_privacy&ifa_type=NA&lmt=NA&device_language=es&coppa=0
+
+#EXTINF:0 group-title="DEPORTES",AZTECA DEPORTES NETWORK
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8
+
+#EXTINF:0 group-title="DEPORTES",beIN SPORTS EXTRA
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://dapdwco2fkcoa.cloudfront.net/hls/playlist.m3u8?ads.xumo_channelId=88887753&ads.xumo_streamId=88887753&ads.csid=vidaa_beinsports_ssai&ads.caid=beINSports&ads.appName=%7BADS.APP_NAME%7D&ads.appVersion=1&ads._fw_app_bundle=%7BADS.APP_BUNDLE%7D&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-pg&ads._fw_deviceMake=%7BADS.BRAND_NAME%7D&ads._fw_device_model=%7BADS.DEVICE_OSV%7D&ads._fw_devicetype=%7BADS.DEVICE_TYPE%7D&ads._fw_coppa=0&ads._fw_gdpr_consent=%7BADS.GDPR_CONSENT%7D&ads._fw_gdpr=%7BADS.GDPR%7D&ads._fw_is_lat=%7BADS.DNT%7D&ads._fw_us_privacy=%7BADS.US_PRIVACY%7D&ads._fw_h_x_country=%7BADS.DEVICE_COUNTRY%7D&ads._fw_player_width=%7BADS.W%7D&ads._fw_player_height=%7BADS.H%7D&ads.vauth=%7BADS.VAUTH%7D&ads.xumo_contentId=1832&ads.xumo_contentName=beINSports&ads.xumo_ifa=%7BADS.IFA%7D&ads.xumo_ifaType=%7BADS.IFA_TYPE%7D&ads.xumo_providerId=1832&ads.xumo_providerName=beINSports&ads.client_section=beinsports_beinsports&ads.vidaa_providername=beINSports&ads._fw_app_store_url=%7BADS.APP_STORE_URL%7D&ads.vidaa_ads_param=1188362017&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=9603
+
+#EXTINF:0 group-title="DEPORTES",beIN SPORTS EXTRA Ñ
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtraespanol-tcl/playlist.m3u8
+
+#EXTINF:0 group-title="DEPORTES",beIN SPORTS EXTRA Ñ 2
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://dapdwco2fkcoa.cloudfront.net/hls/playlist.m3u8?ads.xumo_channelId=88887754&ads.xumo_streamId=88887754&ads.csid=vidaa_beinsportsesp_ssai&ads.caid=BeInSportsESP&ads.appName=%7BADS.APP_NAME%7D&ads.appVersion=1&ads._fw_app_bundle=%7BADS.APP_BUNDLE%7D&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-pg&ads._fw_deviceMake=%7BADS.BRAND_NAME%7D&ads._fw_device_model=%7BADS.DEVICE_OSV%7D&ads._fw_devicetype=%7BADS.DEVICE_TYPE%7D&ads._fw_coppa=0&ads._fw_gdpr_consent=%7BADS.GDPR_CONSENT%7D&ads._fw_gdpr=%7BADS.GDPR%7D&ads._fw_is_lat=%7BADS.DNT%7D&ads._fw_us_privacy=%7BADS.US_PRIVACY%7D&ads._fw_h_x_country=%7BADS.DEVICE_COUNTRY%7D&ads._fw_player_width=%7BADS.W%7D&ads._fw_player_height=%7BADS.H%7D&ads.vauth=%7BADS.VAUTH%7D&ads.xumo_contentId=2642&ads.xumo_contentName=BeInSportsESP&ads.xumo_ifa=%7BADS.IFA%7D&ads.xumo_ifaType=%7BADS.IFA_TYPE%7D&ads.xumo_providerId=2642&ads.xumo_providerName=BeInSportsESP&ads.client_section=beinsports_beinsportses&ads.vidaa_providername=BeInSportsESP&ads._fw_app_store_url=%7BADS.APP_STORE_URL%7D&ads.vidaa_ads_param=1188362017&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=9600
+
+#EXTINF:0 group-title="DEPORTES",CBS SPORTS HD US
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
+
+#EXTINF:0 group-title="DEPORTES",CLARO SPORTS
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+http://45.5.118.152:8000/play/a08u/index.m3u8
+
+#EXTINF:0 group-title="DEPORTES",CLARO SPORTS 2 SD
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+http://45.5.118.152:8000/play/a0ah/index.m3u8
+
+#EXTINF:0 group-title="DEPORTES",DSPORTS HD
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+http://181.224.255.210:8001/play/a0s8/index.m3u8?hls
+
+#EXTINF:0 group-title="Deportes",ESPN Deportes HD
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://38.188.186.47:4000/play/Ji198/index.m3u8
+
+#EXTINF:0 group-title="Deportes",ESPN HD
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://corgol.com@45.228.234.30:16000/play/a060
+
+#EXTINF:0 group-title="Deportes",ESPN HD
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://181.78.12.119:16123/play/ch16/index.m3u8
+
+#EXTINF:0 group-title="Deportes",ESPN HD
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://181.78.12.119:16123/play/ch16/index.m3u8
+
+#EXTINF:0 group-title="Deportes",ESPN HD
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://dejatedemamadas.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/52569
+
+#EXTINF:0 group-title="Deportes",ESPN 2 HD
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://181.224.200.5:2277/play/a02c/index.m3u8
+
+#EXTINF:0 group-title="Deportes",ESPN 2 HD
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://corgol.com@45.228.234.30:16000/play/a061
+
+#EXTINF:0 group-title="Deportes",ESPN 3 HD
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://45.5.118.152:8000/play/a064/index.m3u8
+
+#EXTINF:0 group-title="Deportes",ESPN 3 HD
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://181.78.12.119:16123/play/ch18/index.m3u8
+
+#EXTINF:0 group-title="Deportes",ESPN 3 HD
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://181.224.200.5:2277/play/a02g/index.m3u8
+
+#EXTINF:0 group-title="Deportes",ESPN 4 HD
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://181.78.12.119:16123/play/ch90/index.m3u8
+
+#EXTINF:0 group-title="Deportes",ESPN 5 HD
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://181.78.12.119:16123/play/ch19/index.m3u8
+
+#EXTINF:0 group-title="Deportes",ESPN 6 HD
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://181.224.200.5:2277/play/a02h/index.m3u8
+
+#EXTINF:0 group-title="Deportes",ESPN 7 HD
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://181.78.12.119:16123/play/ch20/index.m3u8
+
+#EXTINF:0 group-title="Deportes",ESPN Premium HD
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://38.137.192.250:8000/play/a0ez
+
+#EXTINF:0 group-title="DEPORTES",EURO SPORTS 1
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+http://200.115.120.1:8000/play/ca042/index.m3u8
+
+#EXTINF:0 group-title="Deportes",EUROSPORT 4K Czechia
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/esp_4k_atk/playlist.m3u8
+
+#EXTINF:0 group-title="DEPORTES",FOX TUBI HD
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://a.tubi1.apollo.adrise.io/live/fox-en-tubi-pltefr/1280x720.m3u8?gdpr=0&device_id=95bab421-51ea-47f2-8d58-4d5d1f67e456&now_pos=0&playback_start_ts=1789753247&tb.sid=662fc6ea-92dc-4468-a90d-f78dfe20a3ed&ap.route=-9xRhGYWETE48I6ILZL-rc5IzW4&app_mode=DEFAULT_MODE&vpaid_enabled=false&content_id=400000122&ap.playback_start_ts=1789753247&platform=WEB&content_type=mp4&ap.sid=65dfc512-03fa-405f-a487-1918c0acd304&ap.pt=2&pub_id=21f12146acbab325bb229e55010b88c3&app_id=tubitv&ap.ss=305a2d2bd9643ffe0faf69301c9cfeab&language=es
+
+#EXTINF:0 group-title="DEPORTES",FOX DEPORTES HD
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+
+#EXTINF:0 group-title="DEPORTES",FOX SPORTS HD US
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+
+#EXTINF:0 group-title="DEPORTES",FOX SPORTS 2 HD MX
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+http://200.115.120.1:8000/play/ca126/index.m3u8
+
+#EXTINF:0 group-title="DEPORTES",FOX SPORTS HD AR
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+http://200.115.120.1:8000/play/ca041/index.m3u8
+
+#EXTINF:0 group-title="DEPORTES",FOX SPORTS 2 HD AR
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+http://dejatedemamadas.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/9983
+
+#EXTINF:0 group-title="DEPORTES",FOX SPORTS 3 HD AR
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+http://dejatedemamadas.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/10084
+
+#EXTINF:0 group-title="DEPORTES",FTF SPORTS HD US
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://1593604785.rsc.cdn77.org/FTF/FTF_SCTE.m3u8
+
+#EXTINF:0 group-title="DEPORTES",FUSE SPORTS HD US
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+http://23.237.104.106:8080/USA_FUSE/index.m3u8
+
+#EXTINF:0 group-title="DEPORTES",Golf Channel HD US
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8
+
+#EXTINF:0 group-title="Deportes",HORSE TV HD
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
+
+#EXTINF:0 group-title="Deportes",NBC SPORTS NOW HD
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
+
+#EXTINF:0 group-title="DEPORTES",NFL CHANNEL HD
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5ced7d5df64be98e07ed47b6.m3u8
+
+#EXTINF:0 group-title="DEPORTES",RED BULL TV EN ESPAÑOL BUEN AUDIO
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8
+
+#EXTINF:0 group-title="DEPORTES",RED BULL TV EN ESPAÑOL BUEN AUDIO
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8
+
+#EXTINF:0 group-title="Deportes",TUDN
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://45.5.118.152:8000/play/a08f/index.m3u8
+
+#EXTINF:0 group-title="DEPORTES",SKY SPORTS LA LIGA
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+http://200.115.120.1:8000/play/ca82266/index.m3u8
+
+#EXTINF:0 group-title="Deportes",TUDN US
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://dejatedemamadas.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/73166
+
+#EXTINF:0 group-title="Deportes",TUDN US
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://45.190.13.8/TUDNHD/index.m3u8
+
+#EXTINF:0 group-title="DEPORTES",TNT SPORTS BUEN AUDIO
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+http://170.244.209.30:8000/play/a0s9/index.m3u8
+
+#EXTINF:0 group-title="DEPORTES",TVC DEPORTES
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+http://dejatedemamadas.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/52592
+
+#EXTINF:0 group-title="Deportes",TyC SPORTS
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://38.44.109.41:8003/play/a02l/index.m3u8
+
+#EXTINF:0 group-title="Noticias",ABC NEWS TEXAS
+#EXTGRP:Noticias
+#EXTVLCOPT:network-caching=1000
+https://content-ausw2-up-k8s1.uplynk.com/channel/d98542382d0b49b2b573f1653590e346/b.m3u8?pbs=52ce622807c54efda953d0ffc644a9db
+
+#EXTINF:0 group-title="Noticias",ADN NOTICIAS
+#EXTGRP:Noticias
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?
+
+#EXTINF:0 group-title="Noticias",AMX NOTICIAS
+#EXTGRP:Noticias
+#EXTVLCOPT:network-caching=1000
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+
+#EXTINF:0 group-title="Noticias",BRICS EN ESPAÑOL
+#EXTGRP:Noticias
+#EXTVLCOPT:network-caching=1000
+https://espbrics.mediacdn.ru:443/cdn/brics/spanish/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 group-title="Noticias",CANAL DEL CONGRESO 45.1
+#EXTGRP:Noticias
+#EXTVLCOPT:network-caching=1000
+https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834_360p800kbps.m3u8
+
+#EXTINF:0 group-title="Noticias",CANAL DEL CONGRESO 45.2
+#EXTGRP:Noticias
+#EXTVLCOPT:network-caching=1000
+https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.2_kd5oiNTTWO0gEOFc423456787er_360p800kbps.m3u8
+
+#EXTINF:0 group-title="Noticias",CANAL DEL CONGRESO 45.3
+#EXTGRP:Noticias
+#EXTVLCOPT:network-caching=1000
+https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.3_kd5oiNTTWO0gEOFc875423kf52_360p800kbps.m3u8
+
+#EXTINF:0 group-title="Noticias",CBS NEWS
+#EXTGRP:Noticias
+#EXTVLCOPT:network-caching=1000
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_22.m3u8
+
+#EXTINF:0 group-title="Noticias",CBS NEWS NATION
+#EXTGRP:Noticias
+#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/pa/event/TMUt418sQMeu1QtneYJ9ag/stream/d3bbe28a-c673-4d50-af2b-8951d4dab6ed:ATL/variant/80e54c97f74b0efe7f30618f61f57373/bandwidth/691051.m3u8
+
+#EXTINF:0 group-title="Noticias",CNN EN ESAPÑOL
+#EXTGRP:Noticias
+#EXTVLCOPT:network-caching=1000
+https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:0 group-title="Noticias",DW EN ESAPÑOL
+#EXTGRP:Noticias
+#EXTVLCOPT:network-caching=1000
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+#EXTINF:0 group-title="Entretenimiento",ESTRELLA NEWS
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-estrellanews-tcl-ideo/playlist.m3u8
+
+#EXTINF:0 group-title="NOTICIAS",EURONEWS
+#EXTGRP:NOTICIAS
+#EXTVLCOPT:network-caching=1000
+https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-60089d97f682a3002c34829d/?X-Plex-Token=g82rWYDL4TpsbTWbuShp
+
+#EXTINF:0 group-title="Noticias",FORO Tv
+#EXTGRP:Noticias
+#EXTVLCOPT:network-caching=1000
+https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index_6.m3u8&redirect=true
+
+#EXTINF:0 group-title="NOTICIAS",FOX LIVE NOW US
+#EXTGRP:NOTICIAS
+#EXTVLCOPT:network-caching=1000
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:0 group-title="Noticias",FRANCE 24 EN ESPAÑOL
+#EXTGRP:Noticias
+#EXTVLCOPT:network-caching=1000
+https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
+
+#EXTINF:0 group-title="NOTICIAS",GLOBAL NEWS
+#EXTGRP:NOTICIAS
+#EXTVLCOPT:network-caching=1000
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
+
+#EXTINF:0 group-title="Noticias",Milenio Tv
+#EXTGRP:Noticias
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8?uid=2i2bzPvKsEJ65OkOU6MbUwS0nQjEAxB7&sid=HN5SEWatl6lcA0kVSszqu3mpk35ney4P&pid=7RwOzwLBfqdEpmIE5PoQHI6Y6Sq2nmni&an=screen&at=web-app&av=v5.2.201&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=300x150&without_cookies=false&dnt=true.m3u8
+
+#EXTINF:0 group-title="Noticias",N+ UNIVISION
+#EXTGRP:Noticias
+#EXTVLCOPT:network-caching=1000
+https://linear-254.frequency.stream:443/mt/studio/254/hls/master/playlist_1280x720.m3u8
+
+#EXTINF:0 group-title="NOTICIAS",NOWMEDIA TV ESPAÑOL
+#EXTGRP:NOTICIAS
+#EXTVLCOPT:network-caching=1000
+https://live.nowtelly.com/now_spanish/live/chunks.m3u8
+
+#EXTINF:0 group-title="NOTICIAS",NOWMEDIA TV US
+#EXTGRP:NOTICIAS
+#EXTVLCOPT:network-caching=1000
+https://live.nowtelly.com/now_usa/live_usa/chunks.m3u8?nimblesessionid=45194424
+
+#EXTINF:0 group-title="Noticias",PLURAL Tv
+#EXTGRP:Noticias
+#EXTVLCOPT:network-caching=1000
+https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/chunklist.m3u8
+
+#EXTINF:0 group-title="Noticias",RT EN ESPAÑOL
+#EXTGRP:Noticias
+#EXTVLCOPT:network-caching=1000
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+
+#EXTINF:0 group-title="NOTICIAS",RTVE 24H
+#EXTGRP:NOTICIAS
+#EXTVLCOPT:network-caching=1000
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+
+#EXTINF:0 group-title="NOTICIAS",SKY NEWS
+#EXTGRP:NOTICIAS
+#EXTVLCOPT:network-caching=1000
+https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/17501/sde-fast-skynews/stream03/streamPlaylist.m3u8
+
+#EXTINF:0 group-title="Noticias",TELEFORMULA
+#EXTGRP:Noticias
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8?
+
+#EXTINF:0 group-title="Noticias",USA TODAY
+#EXTGRP:Noticias
+#EXTVLCOPT:network-caching=1000
+https://usatodaynews-xumo.amagi.tv/480p-cc/index.m3u8
+
+#EXTINF:0 group-title="CLIMA",ACCUWEATHER NOW
+#EXTGRP:CLIMA
+#EXTVLCOPT:network-caching=1000
+https://amg00684-accuweatherinc-accuweather-ono-8kh8p.amagi.tv/ts-us-e2-n2/playlist/amg00684-accuweatherinc-accuweather-ono/cb7c3e167b746f8cccca3562d6a441aa8d0f65d05d32d0326aa05d9e71c5155cd7bda3c9e448b93a7ec062812b53310d0c78ce07de6c19a08724fc0e733f070afe88b37bc7991919d581512c2eb86a5657fa1705a165137edcde1f0aae34a1365040bf473d0072c59621c90b2ed99056d2247c9bda88326222434fec051fbafd0bbcfee45e5bd872a1af1c58f67e13b6c01bd6d11fbc9ed75d8c578225a047ce9ba582ce428586c47ea856e4654400267ec0cd7cc19859e683c83038cc727074223f97cb6c6ddd5dfc256e64ba99e6ba7df610c1fb5deb02199a7055cb1952f0068406b5f546e08cb6da50483aa5be3b2b47f2acc88e8ab147c0cf7eadbafd0a08c650a8ade7f1cd92510a3595efc217858c3893ae2a86bb563e31d4887f56fcd88cc2bf97439029cb88a1d66d0206540d0c8252b5892df51d9d29f880437a1c7a4da3cc019fc6c108642b0fa7904ed8162cbcd9a08acb416e99375509be2091702d58e118203ce924f29f7c4b8c25018a7c7dd850278f4ff9f77da0f495b5486bfb8e8771fe69eea7039da351fe236f0f70c69846684c4279dff9754d6129b122cae78ab027475096b4a798e75c37003512287ca8eaf57f968b80645d21c85d226f630355f120d37ad414461024ab4d854c68de27ab944b497a777dfbabb6e5822b9a995377c29d/36/1920x1080_7619040/index.m3u8
+
+#EXTINF:0 group-title="CLIMA",FOX WEATHER
+#EXTGRP:CLIMA
+#EXTVLCOPT:network-caching=1000
+https://247wlive.foxweather.com/stream/index.m3u8
+
+#EXTINF:0 group-title="CLIMA",THE WEATHER CHANNEL
+#EXTGRP:CLIMA
+#EXTVLCOPT:network-caching=1000
+https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8
+
+#EXTINF:0 group-title="CLIMA",WEATHERNATION
+#EXTGRP:CLIMA
+#EXTVLCOPT:network-caching=1000
+https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8
